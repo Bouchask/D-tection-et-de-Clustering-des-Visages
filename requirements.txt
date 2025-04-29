@@ -1,7 +1,9 @@
 streamlit
 opencv-python-headless
 numpy
-Pillow
-mediapipe
+torch==2.0.1
 hdbscan
 insightface
+mediapipe
+scikit-learn
+pillow
